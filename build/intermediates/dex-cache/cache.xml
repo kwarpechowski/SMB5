@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_8ffc2ac0718c21ca14d51e047b11656b42d0414d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_1e3de41bd4c990365604514b84746bda46801ae9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="439a5bbcca356d8c3ed2a1278fa2cee0746459f2">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0bcead78748c782eb4385b7600cb9e09267fb0b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="25289b7ab43d03606dfe3c1c83e22184268f1ef5">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_bf1dccb923ad7dd7ff906ca28feca0746f0feed0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_c772e3dfc720483b92ce0a99607e634675c68e0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_186bffce25a7648bbab7e38c9262a0e8becab6b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_acb2730a76ec7f98b71f0f10fe7499011bf241bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/kamilw/Desktop/SMB5/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/kamilw/Desktop/SMB5/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_ecad2d9e4db0b458d563946135fe200a6bc1610a/classes.dex" />
+    </item>
+
+</items>

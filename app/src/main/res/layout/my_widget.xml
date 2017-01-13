@@ -1,0 +1,42 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/widget_margin">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/linear"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:layout_centerHorizontal="true">
+
+        <Button
+            android:text="WWW"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/button" />
+
+        <Button
+            android:text="IMG"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/button2" />
+
+        <Button
+            android:text="SOUND"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/button3" />
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_alignParentStart="true"
+        android:id="@+id/imageView2"
+        android:layout_below="@+id/linear"
+        android:layout_alignParentEnd="true" />
+
+
+</RelativeLayout>
